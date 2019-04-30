@@ -6,10 +6,11 @@ image: /assets/images/markdown.jpg
 headerImage: false
 comments: true
 tag:
+- the Dreamchaser
 - github
 - 깃허브
 - blog
-category: blog
+category: The Dreamchaser
 author: Hailey Haeun Park
 description: Hailey FINALLY started Github pages!
 ---

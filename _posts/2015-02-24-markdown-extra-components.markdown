@@ -1,16 +1,17 @@
 ---
-title: "Markdown Extra Components"
+title: "Started Github Pages. 깃허브 페이지 시작!"
 layout: post
-date: 2016-02-24 22:48
+date: 2015-05-01 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
+comments: true
 tag:
-- markdown
-- components
-- extra
+- github
+- 깃허브
+- blog
 category: blog
-author: jamesfoster
-description: Markdown summary with different options
+author: Hailey Haeun Park
+description: Hailey FINALLY started Github pages! 
 ---
 
 ## Summary:

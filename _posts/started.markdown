@@ -12,7 +12,7 @@ tag:
 - blog
 category: The Dreamchaser
 author: Hailey Haeun Park
-description: Hailey FINALLY started Github pages!
+description: I FINALLY started Github pages!
 ---
 
 ## 깃허브 페이지를 만들었다.

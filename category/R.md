@@ -2,6 +2,6 @@
 
 layout: category
 
-title: R
-
+title: Data/R
+permalink: '/Data/R'
 ---

@@ -2,6 +2,6 @@
 
 layout: category
 
-title: Film
-
+title: Hailey/Film
+permalink: 'Hailey/Film'
 ---

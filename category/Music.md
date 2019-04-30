@@ -2,6 +2,6 @@
 
 layout: category
 
-title: Music
-
+title: Hailey/Music
+permalink: 'Hailey/Music'
 ---

@@ -2,6 +2,6 @@
 
 layout: category
 
-title: The Dreamchaser
-
+title: Hailey/The Dreamchaser
+permalink: 'Hailey/The Dreamchaser'
 ---

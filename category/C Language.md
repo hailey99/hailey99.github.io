@@ -2,6 +2,7 @@
 
 layout: category
 
-title: C Language
 
+title: Programming/C Language
+permalink: '/Programming/C Language'
 ---

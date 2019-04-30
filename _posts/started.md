@@ -1,7 +1,7 @@
 ---
-title: "Started Github Pages. 깃허브 페이지 시작!"
+title: "Started Github Pages."
 layout: post
-date: 2015-05-01 22:48
+date: 2019-05-01 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 comments: true

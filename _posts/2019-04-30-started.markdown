@@ -10,7 +10,6 @@ tag:
 - github
 - 깃허브
 - blog
-category: The Dreamchaser
 author: Hailey Haeun Park
 description: I FINALLY started Github pages!
 ---

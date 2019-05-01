@@ -1,7 +1,7 @@
 ---
 title: "Started Github Pages"
 layout: post
-date: 2019-04-30 01:48
+date: 2019-05-01 01:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -11,28 +11,40 @@ author: Hailey Haeun Park
 description: I FINALLY started Github pages!
 ---
 
-#I FINALLY started Github pages!
-
+<h1> I FINALLY started Github pages! </h1>
+<h2>
 Today is May 1st 2019, the day I'm flying out to Seoul. It's been a year since I left there on April 27th, 2018!
 One of my goal this May is creating my own Github page and post at least 2 blogs.
 So, I'm posting this blog at Toronto Pearson Airport that always brings up the memory of the first day in Canada.
 
+
 I just wanna share some songs that I can't love more and the feelings I go through whenever I listen to the songs.
 
-—
 
+<hr>
+<blockquote>  <center>
 One is **_Lee Sora - Track 9_**. This comforting song is what I listened to at the plane to Toronto. I embedded the youtube video playing with a river view of Seoul I can't wait to see it.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5LzfjF1ESIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5LzfjF1ESIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </center>
+</blockquote>
 
 
--
 
+<hr>
+<blockquote> <center>
 The other one is **_Safeplanet - คำตอบ_**, the song I'm gonna listen to in the air heading to Seoul. I've known this band only for 3 weeks but I'm sure I'll stan it for a long time cuz this band let me know the coolness of Thai indie band. It's a shame I can't understand Thai tho.
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P2y-C4sQfCc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P2y-C4sQfCc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+</blockquote>
 
 
-Anyway, I hope you all like my new Github page and this bops. See you in Korea!
+
+Anyway, I hope you all have the greatest Summer and like my new Github page and this bops.
+
+See you in Korea!
+
+
+
+</h2>

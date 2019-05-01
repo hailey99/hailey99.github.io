@@ -1,13 +1,13 @@
 ---
 title: "Started Github Pages"
 layout: post
-date: 2019-04-29 01:48
+date: 2019-04-30 01:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - blog
 category: blog
-author: jamesfoster
+author: Hailey Haeun Park
 description: I FINALLY started Github pages!
 ---
 

@@ -17,13 +17,9 @@ description: I FINALLY started Github pages!
 
 1년 전 비행하면서 들었던 노래
 
-
-{% highlight html %}
-<iframe width="560" height="310" src="https://www.youtube.com/watch?v=5LzfjF1ESIc" frameborder="0" allowfullscreen></iframe>
-{% endhighlight %}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5LzfjF1ESIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 이건 내일 비행하면서 들을 노래! (몇주째 최애곡 최애밴드랍니다 태국 짱...)
 
-<iframe width="560" height="310" src="https://www.youtube.com/watch?v=P2y-C4sQfCc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P2y-C4sQfCc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

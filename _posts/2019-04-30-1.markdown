@@ -19,11 +19,11 @@ description: I FINALLY started Github pages!
 
 
 {% highlight html %}
-<iframe width="560" height="310" src="https://www.youtube.com/embed/r7XhWUDj-Ts" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="310" src="https://www.youtube.com/watch?v=5LzfjF1ESIc" frameborder="0" allowfullscreen></iframe>
 {% endhighlight %}
 
 
 
 이건 내일 비행하면서 들을 노래! (몇주째 최애곡 최애밴드랍니다 태국 짱...)
 
-<iframe width="560" height="310" src="https://www.youtube.com/embed/r7XhWUDj-Ts" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="310" src="https://www.youtube.com/watch?v=P2y-C4sQfCc" frameborder="0" allowfullscreen></iframe>

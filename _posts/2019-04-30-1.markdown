@@ -5,11 +5,9 @@ date: 2019-04-29 01:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- github
-- 깃허브
 - blog
 category: blog
-author: Hailey Haeun Park
+author: jamesfoster
 description: I FINALLY started Github pages!
 ---
 

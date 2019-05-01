@@ -11,8 +11,8 @@ author: Hailey Haeun Park
 description: I FINALLY started Github pages!
 ---
 
-<h1> I FINALLY started Github pages! </h1>
-<h2>
+<h2> I FINALLY started Github pages! </h2>
+
 Today is May 1st 2019, the day I'm flying out to Seoul. It's been a year since I left there on April 27th, 2018!
 One of my goal this May is creating my own Github page and post at least 2 blogs.
 So, I'm posting this blog at Toronto Pearson Airport that always brings up the memory of the first day in Canada.
@@ -44,7 +44,3 @@ The other one is **_Safeplanet - คำตอบ_**, the song I'm gonna listen t
 Anyway, I hope you all have the greatest Summer and like my new Github page and this bops.
 
 See you in Korea!
-
-
-
-</h2>

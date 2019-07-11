@@ -22,7 +22,7 @@ Are you a type of person who asks others the first impression of you?<br><br>
 
 Congratulations!<br><br>
 
-​<img src="samehere.jpeg"
+​<img src="/assets/images/samehere.jpeg"
      alt="Same here!"
      style="float: left; margin-right: 10px;" />
 
@@ -46,43 +46,43 @@ SO,
 
 ​<br><br><br>
 
-I'm gonna analyze my book wish list that I've bookmarked for a year
+I'm gonna analyze my book wish list that I've bookmarked for a year <br><br>
 
-using R
+using R <br><br>
 
-to be specific,
+to be specific,<br><br>
 
-scientific,
+scientific,<br><br>
 
-and terrific.
+and terrific.<br><br>
 
-(This is my first time to make English rhyme. Excuse my language.)
-
-​
-
-I'm sure this analytics will help me know myself who is, at the same time, independent and made of my life experiences
+(This is my first time to make English rhyme.)<br><br><br>
 
 ​
 
-because
+I'm sure this analytics will help me know myself who is, at the same time, independent and made of my life experiences<br><br><br>
+
+​
+
+because<br><br><br>
 
 
 
-As a human, we are continuously influenced by the beloved books, films, and musics and they make ourselves even though we seem an abstract and independent creatures.  
+As a human, we are continuously influenced by the beloved books, films, and musics and they make ourselves even though we seem an abstract and independent creatures.  <br><br>
 
 
-The things I want to analyze and share with you are
+The things I want to analyze and share with you are<br><br>
 
 ​
 
 1. What is the word that appears most often in the titles of books on my book wish list?
-
+<br>
 2. What publishers are my favorite?
-
+<br>
 3. What book series I love the most?
-
+<br>
 4. What kind of book I am interested in the most?
-
+<br><br><br><br>
 ​
 
 ​
@@ -92,15 +92,15 @@ The things I want to analyze and share with you are
 I hope I can pioneer one kind of art that only I can do, based on what I found aside from the truth.
 
 ​
-
+<br><br>
 ​
 
 Would you dive into my book wish list?
 
-​
+​<br><br>
 
 ​
 
-You are always welcome!
+You are always welcome!<br>
 
 ​</div>

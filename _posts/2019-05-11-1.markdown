@@ -1,14 +1,15 @@
 ---
-title: "Started Github Pages"
+title: "Word Project #0"
 layout: post
-date: 2019-05-01 01:48
+date: 2019-05-11 12:20
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- blog
-category: blog
+- project
+- wordproject
+category: project
 author: Hailey Haeun Park
-description: I FINALLY started Github pages!
+description: Word Project #0
 ---
 
 <h2> I FINALLY started Github pages! </h2>

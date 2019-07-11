@@ -13,7 +13,9 @@ author: Hailey Haeun Park
 description: Word Project #0
 ---
 
-<div style="text-align: center">
+<div style="text-align: center;
+font-family=Times new roman;"
+font-size="140%;">
 Are you a type of person who believes in the constellation test? <br><br>
 
 Are you a type of person who tries all kinds of personality test like MBTI even though you know what you are?<br><br>
@@ -24,7 +26,8 @@ Congratulations!<br><br>
 
 ​<img src="/assets/images/samehere.jpeg"
      alt="Same here!"
-     style="float: left; margin-right: 10px;" />
+     height=400px;
+     width=650px;>
 
 If you are those type of person, <br><br>
 

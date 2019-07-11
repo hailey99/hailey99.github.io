@@ -14,37 +14,37 @@ description: Word Project #0
 ---
 
 <div style="text-align: center">
-Are you a type of person who believes in the constellation test?
+Are you a type of person who believes in the constellation test? <br><br>
 
-Are you a type of person who tries all kinds of personality test like MBTI even though you know what you are?
+Are you a type of person who tries all kinds of personality test like MBTI even though you know what you are?<br><br>
 
-Are you a type of person who asks others the first impression of you?
+Are you a type of person who asks others the first impression of you?<br><br>
 
-Congratulations!
+Congratulations!<br><br>
 
 ​<img src="samehere.jpeg"
      alt="Same here!"
      style="float: left; margin-right: 10px;" />
 
-If you are those type of person,
+If you are those type of person, <br><br>
 
-you are on the right track.
+you are on the right track.<br><br><br>
 
 ​
 
 Just like you, I, iterally, love analyzing the characteristics of my favorite movies' heroes, or celebrities. However, the funniest personal trait to analyze would be mine.
-
+<br><br><br>
 ​
 
 Let's keep behind the fact that I once, like 3 seconds, planned having a star debut just to be analyzed by my imaginary fans.
 
-​
+​<br><br><br><br>
 
 ​
 
 SO,
 
-​
+​<br><br><br>
 
 I'm gonna analyze my book wish list that I've bookmarked for a year
 

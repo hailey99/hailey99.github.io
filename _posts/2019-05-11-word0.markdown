@@ -13,8 +13,7 @@ author: Hailey Haeun Park
 description: Word Project #0
 ---
 
-<h2> I FINALLY started Github pages! </h2>
-
+<div style="text-align: center">
 Are you a type of person who believes in the constellation test?
 
 Are you a type of person who tries all kinds of personality test like MBTI even though you know what you are?
@@ -102,4 +101,4 @@ Would you dive into my book wish list?
 
 You are always welcome!
 
-​
+​</div>

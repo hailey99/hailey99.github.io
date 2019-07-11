@@ -14,35 +14,91 @@ description: Word Project #0
 
 <h2> I FINALLY started Github pages! </h2>
 
-Today is May 1st 2019, the day I'm flying out to Seoul. It's been a year since I left there on April 27th, 2018!
-One of my goal this May is creating my own Github page, learning how to use git, being familiar with HTML, CSS, and markdown.
-So, I'm posting this blog at Toronto Pearson Airport that always brings up the memory of the first day in Canada.
+Are you a type of person who believes in the constellation test?
+
+Are you a type of person who tries all kinds of personality test like MBTI even though you know what you are?
+
+Are you a type of person who asks others the first impression of you?
+
+Congratulations!
+
+​
+
+If you are those type of person,
+
+you are on the right track.
+
+​
+
+Just like you, I, iterally, love analyzing the characteristics of my favorite movies' heroes, or celebrities. However, the funniest personal trait to analyze would be mine.
+
+​
+
+Let's keep behind the fact that I once, like 3 seconds, planned having a star debut just to be analyzed by my imaginary fans.
+
+​
+
+​
+
+SO,
+
+​
+
+I'm gonna analyze my book wish list that I've bookmarked for a year
+
+using R
+
+to be specific,
+
+scientific,
+
+and terrific.
+
+(This is my first time to make English rhyme. Excuse my language.)
+
+​
+
+I'm sure this analytics will help me know myself who is, at the same time, independent and made of my life experiences
+
+​
+
+because
 
 
-I just wanna share some songs that I can't love more and the feelings I go through whenever I listen to the songs.
+
+As a human, we are continuously influenced by the beloved books, films, and musics and they make ourselves even though we seem an abstract and independent creatures.  
 
 
+The things I want to analyze and share with you are
 
-One is **_Lee Sora - Track 9_**. This comforting song is what I listened to at the plane to Toronto. I embedded the youtube video playing with a river view of Seoul I can't wait to see it.
+​
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5LzfjF1ESIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+1. What is the word that appears most often in the titles of books on my book wish list?
 
+2. What publishers are my favorite?
 
+3. What book series I love the most?
 
+4. What kind of book I am interested in the most?
 
+​
 
+​
 
+​
 
-The other one is **_Safeplanet - คำตอบ_**, the song I'm gonna listen to in the air heading to Seoul. I've known this band only for 3 weeks but I'm sure I'll stan it for a long time cuz this band let me know the coolness of Thai indie band. It's a shame I can't understand Thai tho.
+I hope I can pioneer one kind of art that only I can do, based on what I found aside from the truth.
 
+​
 
+​
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P2y-C4sQfCc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Would you dive into my book wish list?
 
+​
 
+​
 
+You are always welcome!
 
-
-Anyway, I hope you all have the greatest Summer and like my new Github page and this bops.
-
-See you in Korea!
+​

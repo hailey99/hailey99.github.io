@@ -12,10 +12,11 @@ category: project
 author: Hailey Haeun Park
 description: Word Project #0
 ---
-
-<div style="text-align: center;
-font-family=Times new roman;"
-font-size=140%;">
+<html>
+<div style="text-align:center;
+  font-family:Times new roman;
+  font-size:140%;
+  color:black">
 Are you a type of person who believes in the constellation test? <br><br>
 
 Are you a type of person who tries all kinds of personality test like MBTI even though you know what you are?<br><br>
@@ -107,3 +108,5 @@ Would you dive into my book wish list?
 You are always welcome!<br>
 
 ​</div>
+
+</html>

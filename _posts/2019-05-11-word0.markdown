@@ -31,8 +31,8 @@ Congratulations!<br><br>
 
 <img src="/assets/images/samehere.jpeg"
      alt="Same here!"
-     style="width:300px; height:400px;" />
-<br>
+     style="width:360px; height:250px;" />
+<br><br>
 If you are those type of person, <br><br>
 
 you are on the right track.<br><br><br>
@@ -82,7 +82,7 @@ The things I want to analyze and share with you are are<br><br>
 
 ​
 
-1. What is <span style="font-color:red;"><strong> the word that appears most often in the titles</strong></span> of books on my book wishlist?
+1. What is <strong>the word that appears most often in the titles</strong> of books on my book wishlist?
 <br>
 2. What publishing corporation is my favorite?
 <br>

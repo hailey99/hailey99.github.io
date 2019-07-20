@@ -29,7 +29,9 @@ Are you a type of person who asks others the first impression of you?<br><br>
 
 Congratulations!<br><br>
 
-![Same here!](samehere.jpeg)
+<img src="samehere.jpeg"
+     alt="Same here!"
+     style="float: left; margin-right: 10px;" />
 
 If you are those type of person, <br><br>
 

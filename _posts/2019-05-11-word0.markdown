@@ -82,13 +82,13 @@ The things I want to analyze and share with you are are<br><br>
 
 ​
 
-1. What is <strong>the word that appears most often in the titles</strong> of books on my book wishlist?
+1. What is <b>the word that appears most often in the titles</b> of books on my book wishlist?
 <br>
-2. What publishing corporation is my favorite?
+2. What <b>publishing corporation</b> is my favorite?
 <br>
-3. What book series do I love the most?
+3. What <b>book series</b> do I love the most?
 <br>
-4. What kind of book I am interested in the most?
+4. What <b>genre of book</b> I am interested in the most?
 <br><br><br><br>
 ​
 

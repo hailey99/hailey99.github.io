@@ -31,8 +31,8 @@ Congratulations!<br><br>
 
 <img src="/assets/images/samehere.jpeg"
      alt="Same here!"
-     style="width:200% height:200%" />
-
+     style="width:300px; height:400px;" />
+<br>
 If you are those type of person, <br><br>
 
 you are on the right track.<br><br><br>

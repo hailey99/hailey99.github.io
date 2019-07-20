@@ -31,7 +31,7 @@ Congratulations!<br><br>
 
 <img src="/assets/images/samehere.jpeg"
      alt="Same here!"
-     style="float: left; margin-right: 10px;" />
+     style="width:200% height:200%" />
 
 If you are those type of person, <br><br>
 

@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://docs.google.com/document/d/1rAJiqgGUZwXoVOJZu9eYT684FzWhjYev5l1z4RtPWuA/edit?usp=sharing
 
 url: http://hailey99.github.io
 # your url: http://USERNAME.github.io

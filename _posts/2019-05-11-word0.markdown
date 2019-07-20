@@ -18,7 +18,7 @@ description: Word Project #0
   font-family:Times new roman;
   font-size:140%;
   color:black">
-  
+
 Are you a type of person who believes in the constellation test? <br><br>
 
 
@@ -54,7 +54,7 @@ SO,
 
 ​<br><br><br>
 
-I'm gonna analyze my book wish list that I've bookmarked for a year <br><br>
+I'm gonna analyze my book wishlist that I've bookmarked and saved for a year <br><br>
 
 using R <br><br>
 
@@ -83,7 +83,7 @@ The things I want to analyze and share with you are are<br><br>
 
 ​
 
-1. What is the word that appears most often in the titles of books on my book wishlist?
+1. What is <p style="font-color:red;">the word that appears most often in the titles</p> of books on my book wishlist?
 <br>
 2. What publishing corporation is my favorite?
 <br>
@@ -98,7 +98,7 @@ The things I want to analyze and share with you are are<br><br>
 <br><br>
 ​
 
-Shall we dive into my book wish list?
+Shall we dive into my book wishlist?
 
 ​<br><br>
 

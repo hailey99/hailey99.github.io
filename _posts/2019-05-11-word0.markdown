@@ -1,5 +1,5 @@
 ---
-title: "Word Project 0: Introduction"
+title: "낱말 프로젝트 00: Introduction"
 layout: post
 date: 2019-05-11 12:20
 image: /assets/images/markdown.jpg
@@ -20,7 +20,7 @@ description: Word Project #0
 
   무신론자에 유사과학을 믿지 않으면서도 괜히 사주 검색해보려고 부모님께 탄생시간을 물어본 적이 있나요?^^
 
-<![samehere](samehere.jpeg)
+<![samehere](assets/images/samehere.jpeg)
 
 
 If you are those type of person, <br><br>
@@ -84,7 +84,7 @@ So do I!
 
 
 
- ​<![meditatingfrog](frog.png)
+ ​<![meditatingfrog](assets/images/frog.png)
 
  그럼 이만
 

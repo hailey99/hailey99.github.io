@@ -1,0 +1,49 @@
+---
+title: "낱말 프로젝트 02: Fields"
+layout: post
+date: 2019-05-22 11:32
+image: /assets/images/markdown.jpg
+headerImage: false
+projects : true
+tag:
+- project
+- 낱말프로젝트
+category: project
+author: Hailey Haeun Park
+description: Word Project #2
+---
+
+'내가 제일 좋아하는 책 분야는 뭘까?'
+
+오늘은 내 위시 리스트 속에 가장 많이 들어있는 책의 분야!를 찾아보았다. 편의를 위해 한 칸씩 띄었지만 알고 보면 이어진 <**** 코드 한 줄만으로 /****> 결과를 도출해낼 수 있었다.
+​
+<![](assets/images/2-1.png)
+
+
+사실 25열까지는 지난 소프로젝트에도 등장한 부분이다.
+
+29열부터 시작되는, '%>%'로 이어서 데이터 분석하는 건 몇주전까지 열심히 연습했었는데 시험기간이라고 잠시 내려놓았었더니 금세 좀 까먹어버렸다. 종강도 했으니, 다시 뇌에 R기름을 윤기 좔좔 흐르게 칠할 시간!!
+
+​
+
+​
+
+그래서 결과는?
+
+​
+
+​
+
+View(Fields)
+
+​
+
+​
+
+#어디 한번 볼까요?
+
+​
+
+​
+
+​

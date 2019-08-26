@@ -45,9 +45,58 @@ description: Word Project #1
 
 ​![](http://hailey99.github.io/assets/images/1-3.png)
 
-그리고 요로코롬 분석을 시작해보자. 사진은 클릭하면 커져요!
+{% highlight html %}
+#엑셀 파일 불러올 패키지 불러오기
+install.packages('readxl')
+library('readxl')
+
+
+book <- read_excel('bookwish.xlsx') #분석할 엑셀 파일을 불러오기 (워킹 디렉토리로부터)
+
+
+copy <- book #카피본 만들어두기
+dim(book) #엑셀 파일이 335행, 22열로 이루어졌음을 알 수 있다.
+
+
+#column 1,2,6,8,13,15,19,20 삭제 (분석하지 않을 요소들!)
+book <- book[,-c(1,2,6,8,13,15,19,20)] #column을 삭제한 데이터프레임을 다시 씌워주는 개념
+
+
+dim(book) #335행, 14열로 줄어들었음을 확인
+
+
+#영어로 변수명 바꿔주기
+install.packages('dplyr')
+library('dplyr')
+
+{% endhighlight %}
+
+그리고 요로코롬 분석을 시작해보자.
 
 ![](http://hailey99.github.io/assets/images/1-4.png)
+
+{% highlight html %}
+book <- rename(book,
+              title = 상품명,
+              series = 시리즈명,
+              subtitle = 부제,
+              isbn = ISBN,
+              publisher = 출판사,
+              author = 저자,
+              price = 정가,
+              dprice = 판매가,
+              dpercentage = 할인율,
+              pdate = 출간일,
+              style =  판형,
+              field = 분야,
+              page = 페이지수,
+              meh = 부가기호)
+
+
+#style(판형) 이 NA(결측치)인 E-book 제거
+table(is.na(book$style)) #결측치 몇개 있나 table로 만들어서 확인
+book <- book %>% filter(!is.na(style))
+{% endhighlight %}
 
 셀 제목들이 한국어로 되어있는데 영어로 해야 코딩할 때 쉬울 것 같아서 야매 영어로 이름을 바꿔주었다.
 
@@ -55,12 +104,52 @@ description: Word Project #1
 
 ​
 ![](http://hailey99.github.io/assets/images/1-5.png)
+{% highlight %}
+#텍스트 마이닝 패키지 설치
+install.packages('rJava')
+install.packages('memoise')
+install.packages('KoNLP')
+library(KoNLP)
+library(dplyr)
+useSejongDic()
+
+
+#책 제목에 들어간 특수문자 제거하기
+install.packages('stringr')
+library(stringr)
+
+
+#title column만 텍스트 분석하는 법을 몰라서 따로 txt 파일을 만들었다. 하는 법 아시는 분,,,
+title <- readLines('title.txt', encoding = "UTF-8")
+title <- str_replace(title, "\\W", " ")
+
+
+#명사 추출
+install.packages('extractNoun')
+nouns <- extractNoun(title) #제목의 명사만 추출한 데이터 만들어준다.
+{% endhighlight %}
 
 사실 이번 소프로젝트에서는 책 타이틀 column만 있으면 돼서 책 제목만 모아서 txt 파일을 만들어 그걸로 분석했다. 데이터프레임의 한 column만 지정해서 그 행 텍스트만 뽑는 법 아시는 분 댓글 부탁드립니다... !
 
 이 부분에서만 패키지가 4개가 쓰였다. 워드클라우드를 만들기 위해 설치한 패키지들도 있었는데 R plots 창에서 한글이 깨져버리는 문제를 해결하지 못했다. 이런 아쉬웠던 부분들은 마지막에 모아 정리해볼 예정.
 
 ​![](http://hailey99.github.io/assets/images/1-6.png)
+{% highlight %}
+wordcount <- table(unlist(nouns)) #추출한 명사 리스트를 문자열 벡터(?)로 변환, 단어별 빈도표 생성
+word <- as.data.frame(wordcount, stringsAsFactors = F)
+
+
+word <- rename(word,
+                    word = Var1,
+                    freq = Freq) #정갈하게 데이터프레임 변수명 바꿔주기
+
+
+df_word <- filter(word, nchar(word) >= 2) #2글자 이상 단어 추출
+
+top_20 <- df_word %>%  #2글자 이상 단어 중 top 20
+  arrange(desc(freq)) %>% #등장 빈도수 큰 것부터 정렬!
+  head(20)
+{% endhighlight %}
 
 그 다음엔 단어(명사)목록과 등장 횟수를 표로 정리하고, 탑 20을 빈도수로 정렬했다
 

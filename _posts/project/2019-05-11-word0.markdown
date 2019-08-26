@@ -15,9 +15,12 @@ description: Word Project #0
 
   혹시 당신.. MBTI 결과가 안 바뀌었을 걸 알면서도 MBTI 사이트 링크가 눈에 보일 때마다 해보시나요?
 
+
   남한테 툭하면 '내 첫인상 어땠어?'를 물어보시나요?
 
+
   무신론자에 유사과학을 믿지 않으면서도 괜히 사주 검색해보려고 부모님께 탄생시간을 물어본 적이 있나요?^^
+
 
 ![samehere](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC8KRDDc2AUNK8rhkpvOO6sK-0vGPByVEOIKk67eIZaNcbC6Js "Same here"){: width=230 height=180}
 
@@ -55,6 +58,7 @@ description: Word Project #0
 
 이번 낱말 프로젝트에서 다뤄볼 것은
 
+
 ​
 **1. 내 북 위시리스트에 있는 책들의 제목에 가장 자주 등장하는 단어는 무엇인가?
 
@@ -66,6 +70,7 @@ description: Word Project #0
 
 입니다!**
 ​
+
 
  저는 '진리를 찾아 떠나 얻은 것을 바탕으로 저만의 예술을 하고픈 여행가(래퍼 HAON 왈)'니까요
 

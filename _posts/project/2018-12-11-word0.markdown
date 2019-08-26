@@ -76,7 +76,7 @@ description: Word Project #0
 
 
 
- ​![meditatingfrog](http://hailey99.github.io/assets/images/frog.png "Meditating frog"){: width=200 height=180 }
+ ​![meditatingfrog](http://hailey99.github.io/assets/images/frog.png "Meditating frog"){: width=100 height=80 }
 
  그럼 이만
 

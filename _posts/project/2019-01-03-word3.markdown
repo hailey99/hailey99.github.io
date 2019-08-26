@@ -264,7 +264,7 @@ gsub을 사용해서 series컬럼의 모든 숫자들을 지우려고 했는데 
 ###결론 3: 민음사 책은 종이책으로 직접 사서 모을거고 다른 책들은 이북으로 읽어야겠다^^
 
 ​
-
+<script src="https://gist.github.com/hailey99/1400e4e5bb6baac1c8e676f56fb34157.js"></script>
 ​
 
 ​

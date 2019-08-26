@@ -148,5 +148,4 @@ Drum roll please!
 다시 또 만나요!
 
 ​
-
-{ % gist c4e05b9ade0edbc01980f35e3a2b5d67 % }
+<script src="https://gist.github.com/hailey99/c4e05b9ade0edbc01980f35e3a2b5d67.js"></script>

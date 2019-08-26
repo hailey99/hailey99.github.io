@@ -22,7 +22,7 @@ description: Word Project #0
   무신론자에 유사과학을 믿지 않으면서도 괜히 사주 검색해보려고 부모님께 탄생시간을 물어본 적이 있나요?^^
 
 
-![samehere](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC8KRDDc2AUNK8rhkpvOO6sK-0vGPByVEOIKk67eIZaNcbC6Js "Same here"){: width=230 height=180}
+![samehere](http://hailey99.github.io/assets/images/samehere.jpeg){: width=230 height=180}
 
 
 축하합니다
@@ -76,7 +76,7 @@ description: Word Project #0
 
 
 
- ​![meditatingfrog](https://i.ytimg.com/vi/zZLitvV6f5Y/hqdefault.jpg "Meditating frog"){: width=200 height=180 }
+ ​![meditatingfrog](http://hailey99.github.io/assets/images/frog.png "Meditating frog"){: width=200 height=180 }
 
  그럼 이만
 

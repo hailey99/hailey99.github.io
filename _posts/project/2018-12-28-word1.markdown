@@ -18,7 +18,7 @@ description: Word Project #1
 
 이 질문은 나라는 사람을 얼마나 드러낼까? 이번 소프로젝트의 결과를 보면 알수 있을 거다.
 
-​
+​####코드는 맨 아래에 있습니다.
 
 ​
 
@@ -45,31 +45,6 @@ description: Word Project #1
 
 ​![](http://hailey99.github.io/assets/images/1-3.png)
 
-{% highlight html %}
-#엑셀 파일 불러올 패키지 불러오기
-install.packages('readxl')
-library('readxl')
-
-
-book <- read_excel('bookwish.xlsx') #분석할 엑셀 파일을 불러오기 (워킹 디렉토리로부터)
-
-
-copy <- book #카피본 만들어두기
-dim(book) #엑셀 파일이 335행, 22열로 이루어졌음을 알 수 있다.
-
-
-#column 1,2,6,8,13,15,19,20 삭제 (분석하지 않을 요소들!)
-book <- book[,-c(1,2,6,8,13,15,19,20)] #column을 삭제한 데이터프레임을 다시 씌워주는 개념
-
-
-dim(book) #335행, 14열로 줄어들었음을 확인
-
-
-#영어로 변수명 바꿔주기
-install.packages('dplyr')
-library('dplyr')
-
-{% endhighlight %}
 
 그리고 요로코롬 분석을 시작해보자.
 
@@ -104,30 +79,7 @@ book <- book %>% filter(!is.na(style))
 
 ​
 ![](http://hailey99.github.io/assets/images/1-5.png)
-{% highlight html %}
-#텍스트 마이닝 패키지 설치
-install.packages('rJava')
-install.packages('memoise')
-install.packages('KoNLP')
-library(KoNLP)
-library(dplyr)
-useSejongDic()
 
-
-#책 제목에 들어간 특수문자 제거하기
-install.packages('stringr')
-library(stringr)
-
-
-#title column만 텍스트 분석하는 법을 몰라서 따로 txt 파일을 만들었다. 하는 법 아시는 분,,,
-title <- readLines('title.txt', encoding = "UTF-8")
-title <- str_replace(title, "\\W", " ")
-
-
-#명사 추출
-install.packages('extractNoun')
-nouns <- extractNoun(title) #제목의 명사만 추출한 데이터 만들어준다.
-{% endhighlight %}
 
 사실 이번 소프로젝트에서는 책 타이틀 column만 있으면 돼서 책 제목만 모아서 txt 파일을 만들어 그걸로 분석했다. 데이터프레임의 한 column만 지정해서 그 행 텍스트만 뽑는 법 아시는 분 댓글 부탁드립니다... !
 
@@ -135,22 +87,7 @@ nouns <- extractNoun(title) #제목의 명사만 추출한 데이터 만들어�
 
 ​![](http://hailey99.github.io/assets/images/1-6.png)
 
-{% highlight html %}
-wordcount <- table(unlist(nouns)) #추출한 명사 리스트를 문자열 벡터(?)로 변환, 단어별 빈도표 생성
-word <- as.data.frame(wordcount, stringsAsFactors = F)
 
-
-word <- rename(word,
-                    word = Var1,
-                    freq = Freq) #정갈하게 데이터프레임 변수명 바꿔주기
-
-
-df_word <- filter(word, nchar(word) >= 2) #2글자 이상 단어 추출
-
-top_20 <- df_word %>%  #2글자 이상 단어 중 top 20
-  arrange(desc(freq)) %>% #등장 빈도수 큰 것부터 정렬!
-  head(20)
-{% endhighlight %}
 
 그 다음엔 단어(명사)목록과 등장 횟수를 표로 정리하고, 탑 20을 빈도수로 정렬했다
 
@@ -232,3 +169,5 @@ Drum roll please!
 다시 또 만나요!
 
 ​
+
+{ % gist hailey99/91ff4220480727b47224245ee2e9c291 % }

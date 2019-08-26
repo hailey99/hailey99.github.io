@@ -50,28 +50,7 @@ description: Word Project #1
 
 ![](http://hailey99.github.io/assets/images/1-4.png)
 
-{% highlight html %}
-book <- rename(book,
-              title = 상품명,
-              series = 시리즈명,
-              subtitle = 부제,
-              isbn = ISBN,
-              publisher = 출판사,
-              author = 저자,
-              price = 정가,
-              dprice = 판매가,
-              dpercentage = 할인율,
-              pdate = 출간일,
-              style =  판형,
-              field = 분야,
-              page = 페이지수,
-              meh = 부가기호)
 
-
-#style(판형) 이 NA(결측치)인 E-book 제거
-table(is.na(book$style)) #결측치 몇개 있나 table로 만들어서 확인
-book <- book %>% filter(!is.na(style))
-{% endhighlight %}
 
 셀 제목들이 한국어로 되어있는데 영어로 해야 코딩할 때 쉬울 것 같아서 야매 영어로 이름을 바꿔주었다.
 
@@ -170,4 +149,4 @@ Drum roll please!
 
 ​
 
-{ % gist hailey99/91ff4220480727b47224245ee2e9c291 % }
+{ % gist hailey99/c4e05b9ade0edbc01980f35e3a2b5d67 % }

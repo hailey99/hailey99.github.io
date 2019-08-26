@@ -13,7 +13,6 @@ author: Hailey Haeun Park
 description: Word Project #0
 ---
 
-<div style="text-align: right">
   혹시 당신.. MBTI 결과가 안 바뀌었을 걸 알면서도 MBTI 사이트 링크가 눈에 보일 때마다 해보시나요?
 
   남한테 툭하면 '내 첫인상 어땠어?'를 물어보시나요?
@@ -81,5 +80,5 @@ description: Word Project #0
  ​
 
  내 첫 데이터 분석 프로젝트 아자아자 화이팅!~~!~!
-</div>
+
  ​

@@ -20,7 +20,7 @@ description: Word Project #0
 
   무신론자에 유사과학을 믿지 않으면서도 괜히 사주 검색해보려고 부모님께 탄생시간을 물어본 적이 있나요?^^
 
-![samehere][assets/images/samehere.jpeg]
+![samehere](hailey99/assets/images/samehere.jpeg "Same here")
 
 
 If you are those type of person, <br><br>

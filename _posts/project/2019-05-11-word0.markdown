@@ -13,21 +13,16 @@ author: Hailey Haeun Park
 description: Word Project #0
 ---
 
-
+<div style="text-align: right">
   혹시 당신.. MBTI 결과가 안 바뀌었을 걸 알면서도 MBTI 사이트 링크가 눈에 보일 때마다 해보시나요?
 
   남한테 툭하면 '내 첫인상 어땠어?'를 물어보시나요?
 
   무신론자에 유사과학을 믿지 않으면서도 괜히 사주 검색해보려고 부모님께 탄생시간을 물어본 적이 있나요?^^
 
-![samehere](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC8KRDDc2AUNK8rhkpvOO6sK-0vGPByVEOIKk67eIZaNcbC6Js "Same here"){: width=200 height=150 style="float:right; padding:16px"}
+![samehere](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC8KRDDc2AUNK8rhkpvOO6sK-0vGPByVEOIKk67eIZaNcbC6Js "Same here"){: width=230 height=180}
 
 
-If you are those type of person, <br><br>
-
-you are on the right track.<br><br><br>
-
-​
 축하합니다
 
 그렇다면 당신은
@@ -36,11 +31,6 @@ you are on the right track.<br><br><br>
 
 (캐.해: 캐릭터 해석 / 팬들이 좋아하는 셀러브리티의 성격, 성향, 취향을 추측 및 해석하는 것)
 
-​
-
-So do I!
-
-​
 
 좋아하는 연예인 또는 영화나 드라마 속 등장인물의 캐해를 하는 것도 재미있지만 뭐니뭐니해도 제일 재미있는 캐.해는 내 캐.해 당하기 ㅎ_ㅎ
 
@@ -84,12 +74,12 @@ So do I!
 
 
 
- ​![meditatingfrog](https://i.ytimg.com/vi/zZLitvV6f5Y/hqdefault.jpg "Meditating frog"){: width=200 height=180 style="float:right; padding:16px"}
+ ​![meditatingfrog](https://i.ytimg.com/vi/zZLitvV6f5Y/hqdefault.jpg "Meditating frog"){: width=200 height=180 }
 
  그럼 이만
 
  ​
 
  내 첫 데이터 분석 프로젝트 아자아자 화이팅!~~!~!
-
+</div>
  ​

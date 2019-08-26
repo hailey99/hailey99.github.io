@@ -7,7 +7,7 @@ headerImage: false
 projects : true
 tag:
 - project
-- wordproject
+- 낱말프로젝트
 category: project
 author: Hailey Haeun Park
 description: Word Project #0

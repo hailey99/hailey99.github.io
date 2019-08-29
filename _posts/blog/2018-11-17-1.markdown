@@ -1,4 +1,3 @@
-
 ---
 title: "DATA DRIVEN 2.0 @ Google Toronto"
 layout: post

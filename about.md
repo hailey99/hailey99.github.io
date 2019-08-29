@@ -7,7 +7,7 @@ layout: page
 A multifaceted individual who’s passionate about ideas, innovation, arts, trends, technology, experiences and diversity.
 
 
-*"A spider reaches the liberty of space by means of its own thread." /Jhumpa Lahiri, The Lowland*
+**"A spider reaches the liberty of space by means of its own thread." /Jhumpa Lahiri, The Lowland**
 
 
 

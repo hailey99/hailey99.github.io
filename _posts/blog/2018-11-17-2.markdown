@@ -13,6 +13,9 @@ description: Joined a terrific event about Data Journalism.
 **DATA DRIVEN 2.0, Google Toronto
 Friday, November 16, 2018**
 
+<img src="hailey99.github.io/Assets/can0.png" width="200">
+*Join some of Canada’s most prolific investigative reporters, developers, coders and data advocates for a one-day data journalism symposium. Delve into the strategies they use to turn terabytes of raw data into exclusive scoops that have already had a demonstrable impact on the politics, social justice, and day-to-day lives of Canadians.* / from https://humber.ca/today/events/data-driven-20-54102
+
 
 <img src="hailey99.github.io/Assets/can1.jpg" width="200">
 <img src="hailey99.github.io/Assets/can2.jpeg" width="200">

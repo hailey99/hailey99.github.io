@@ -6,6 +6,9 @@ image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - blog
+- 이소라
+- Safeplanet
+
 category: blog
 author: Hailey Haeun Park
 description: I've FINALLY got my own Github page!

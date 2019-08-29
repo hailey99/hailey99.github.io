@@ -6,14 +6,17 @@ image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - blog
+- DATA
+- Data Journalism
+- Google
+
 category: blog
 author: Hailey Haeun Park
 description: Joined a terrific event about Data Journalism.
 ---
 
 <img src="http://hailey99.github.io/assets/images/can0.png" width="800">
-
-<I>Join some of Canada’s most prolific investigative reporters, developers, coders and data advocates for a one-day data journalism symposium. Delve into the strategies they use to turn terabytes of raw data into exclusive scoops that have already had a demonstrable impact on the politics, social justice, and day-to-day lives of Canadians. / from https://humber.ca/today/events/data-driven-20-54102 </I>
+ from https://humber.ca/today/events/data-driven-20-54102 </I>
 
 
 
@@ -30,12 +33,13 @@ description: Joined a terrific event about Data Journalism.
 <img src="http://hailey99.github.io/assets/images/can4.jpg" width="800">
 정말 맛있었던 점심.
 
+
 <img src="http://hailey99.github.io/assets/images/can5.jpeg" width="800">
 
 
 
 
-데이터 분석과 마케팅은 '스토리 텔링'이 핵심이라는 점에서 같은 맥락이라고 생각했다. 아무리 흥미로운 데이터 결과를 도출해내더라도 그게 무슨 의미인지, 무슨 가치를 가지고 있는지 정확한 타겟에게 이해하기 쉬운 방식으로 설명할 수 없으면 그 데이터는 가치를 가질 수 없다. 마케팅 또한 그 소비자가 그 물건을 구매해야하는 이유, 스토리가 없으면 그 상품은 가치를 지니지 못하게 된다. 이 두개가 매력적인 이유.
+**데이터 분석과 마케팅은 '스토리 텔링'이 핵심이라는 점에서 같은 맥락이라고 생각했다. 아무리 흥미로운 데이터 결과를 도출해내더라도 그게 무슨 의미인지, 무슨 가치를 가지고 있는지 정확한 타겟에게 이해하기 쉬운 방식으로 설명할 수 없으면 그 데이터는 가치를 가질 수 없다. 마케팅 또한 그 소비자가 그 물건을 구매해야하는 이유, 스토리가 없으면 그 상품은 가치를 지니지 못하게 된다. 이 두개가 매력적인 이유.**
 
 
 
@@ -50,4 +54,4 @@ description: Joined a terrific event about Data Journalism.
 <img src="http://hailey99.github.io/assets/images/can8.jpg" width="800">
 
 
-나는 똑똑한 사람을 많이 동경한다. 어른들에 나를 비교하면서 좌절도 많이 한다. 저 사람은 저렇게 능숙하고 여유로운데 난 왜 이렇게 부족하지?하면서. 그 사람도 분명히 나같은 시기가 있었고 다 실수,실패와 경험을 통해서 지금 그 자리에 있게 된 건데말야.. 빨리 나이 먹고 싶은 이유도 이거다. 하고 싶은 거, 욕심은 많은데 미숙한 내가 맘에 들지 않는 거야 근데 이건 진짜 넌센스니까 'Success is when preparation meets opportunity.' 새기면서 지금 내가 할 수 있는 거 열심히 하자.
+**나는 똑똑한 사람을 동경한다. 연륜을 가진 어른들에 나를 비교하면서 좌절도 많이 한다. 저 사람은 저렇게 능숙하고 여유로운데 난 왜 이렇게 부족하지?하면서. 그 사람도 분명히 나같은 시기가 있었고 다 실수,실패와 경험을 통해서 지금 그 자리에 있게 된 건데 말이다. 하고 싶은 거, 욕심은 많은데 미숙한 내가 맘에 들지 않을 때도 있다. But! 이건 정말 넌센스니까. 'Success is when preparation meets opportunity.' 새기면서 지금 내가 할 수 있는 거 열심히 하자. **

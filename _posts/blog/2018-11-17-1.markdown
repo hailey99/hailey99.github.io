@@ -1,6 +1,4 @@
-<style type="text/css">
 
-</style>
 ---
 title: "DATA DRIVEN 2.0 @ Google Toronto"
 layout: post
@@ -44,7 +42,7 @@ description: Joined a terrific event about Data Journalism.
 <center class="p2">직원들이 각자의 시간을 가질 수 있는 공간들이 마련되어있었는데 방 이름이 하나같이 예뻤다. 벽은 보드마카들이 준비되어있어서 자유롭게 의논하며 시간을 보낼 수 있는 듯했음.</center>
 
 <br>
-	
+
 <img src="http://hailey99.github.io/assets/images/can5.jpeg" width="800">
 
 <br>
@@ -60,7 +58,7 @@ description: Joined a terrific event about Data Journalism.
 <center class="p4">오늘 참석했던 행사 완전 Motivating.. 캐나다 온 순간부터 내 comfort zone에서 벗어났으니까 불편하고 힘든 거 당연한건데 그걸 잊고 지쳐가고 있었다. 의사소통부터가 완벽하게 안되니 편안할 수 없는게 당연한건데.. 그렇게 comfort zone에서 벗어나서 press forward하고 싶었으면서 몽총이다 몽총이야.</center>
 
 <br>
-	
+
 <img src="http://hailey99.github.io/assets/images/can8.jpg" width="800">
 
 <br>

@@ -17,12 +17,12 @@ Friday, November 16, 2018**
 *Join some of Canada’s most prolific investigative reporters, developers, coders and data advocates for a one-day data journalism symposium. Delve into the strategies they use to turn terabytes of raw data into exclusive scoops that have already had a demonstrable impact on the politics, social justice, and day-to-day lives of Canadians.* / from https://humber.ca/today/events/data-driven-20-54102
 
 
-<img src="hailey99.github.io/Assets/can1.jpg" width="200">
-<img src="hailey99.github.io/Assets/can2.jpeg" width="200">
+<img src="http://hailey99.github.io/Assets/can1.jpg" width="200">
+<img src="http://hailey99.github.io/Assets/can2.jpeg" width="200">
 학교 미디어학부랑 구글 캐나다가 진행하는 컨퍼런스에 다녀왔다. 주제는 'data journalism'이었다. admission 마감 엄청 빨리 됐던데 신청해놓고 안 온 사람들 많아서 쾌적했음. 구글 캐나다 본사라 한 건물 차지하고 있을 줄 알았는데 아니라 놀랐고, 천장이 굉장히 낮았다.
 
 
-<img src="hailey99.github.io/Assets/can3.jpeg" width="200">
-<img src="hailey99.github.io/Assets/can4.jpg" width="200">
+<img src="http://hailey99.github.io/Assets/can3.jpeg" width="200">
+<img src="http://hailey99.github.io/Assets/can4.jpg" width="200">
 
 직원들이 각자의 시간을 가질 수 있는 공간들이 마련되어있었는데 방 이름이 하나같이 예뻤다. 벽은 보드마카들이 준비되어있어서 자유롭게 의논하며 시간을 보낼 수 있는 듯했음.

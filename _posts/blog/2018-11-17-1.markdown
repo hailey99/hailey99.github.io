@@ -11,13 +11,13 @@ author: Hailey Haeun Park
 description: Joined a terrific event about Data Journalism.
 ---
 
-<img src="http://hailey99.github.io/assets/images/can0.png" width="700">
+<img src="http://hailey99.github.io/assets/images/can0.png" width="800">
 
 <I>Join some of Canada’s most prolific investigative reporters, developers, coders and data advocates for a one-day data journalism symposium. Delve into the strategies they use to turn terabytes of raw data into exclusive scoops that have already had a demonstrable impact on the politics, social justice, and day-to-day lives of Canadians. / from https://humber.ca/today/events/data-driven-20-54102 </I>
 
 
 
-<img src="http://hailey99.github.io/assets/images/can1.jpg" width="400"><img src="http://hailey99.github.io/assets/images/can2.jpeg" width="400">
+<img src="http://hailey99.github.io/assets/images/can2.jpeg" width="800">
 
 
 
@@ -27,11 +27,8 @@ description: Joined a terrific event about Data Journalism.
 
 
 
-<img src="http://hailey99.github.io/assets/images/can3.jpeg" width="400"><img src="http://hailey99.github.io/assets/images/can4.jpg" width="400">
-
-
-직원들이 각자의 시간을 가질 수 있는 공간들이 마련되어있었는데 방 이름이 하나같이 예뻤다. 벽은 보드마카들이 준비되어있어서 자유롭게 의논하며 시간을 보낼 수 있는 듯했음.
-
+<img src="http://hailey99.github.io/assets/images/can4.jpg" width="800">
+정말 맛있었던 점심.
 
 <img src="http://hailey99.github.io/assets/images/can5.jpeg" width="800">
 

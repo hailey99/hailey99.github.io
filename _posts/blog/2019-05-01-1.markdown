@@ -1,47 +1,24 @@
 ---
-title: "Started Github Pages"
+title: "DATA DRIVEN 2.0 / Google Toronto"
 layout: post
-date: 2019-05-01 01:48
+date: 2018-11-17 08:00
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - blog
 category: blog
 author: Hailey Haeun Park
-description: I FINALLY started Github pages!
+description: Joined a terrific event about Data Journalism.
 ---
+**DATA DRIVEN 2.0, Google Toronto
+Friday, November 16, 2018**
 
-<h2> I FINALLY started Github pages! </h2>
+학교 미디어학부랑 구글 캐나다가 진행하는 컨퍼런스에 다녀왔다. 주제는 'data journalism'이었다. admission 마감 엄청 빨리 됐던데 신청해놓고 안 온 사람들 많아서 쾌적했음. 구글 캐나다 본사라 한 건물 차지하고 있을 줄 알았는데 아니라 놀랐고, 천장이 굉장히 낮았다.
 
-Today is May 1st 2019, the day I'm flying out to Seoul. It's been a year since I left there on April 27th, 2018!
-One of my goal this May is creating my own Github page, learning how to use git, being familiar with HTML, CSS, and markdown.
-So, I'm posting this blog at Toronto Pearson Airport that always brings up the memory of the first day in Canada.
+![img](https://postfiles.pstatic.net/MjAxODExMTdfNjkg/MDAxNTQyNDEyMDY4NTQ3.Rg_oDjvyfbHTcN9W3NdfWDaHr0dUvWQ78TZVz1152jUg.zhxfFSj--BCnyjYDFmKPvpH8BUT4g4zvX3LQF2u91j8g.JPEG.heirre/image_5955057021542411996941.jpg?type=w773)
 
-
-I just wanna share some songs that I can't love more and the feelings I go through whenever I listen to the songs.
-
-
-
-One is **_Lee Sora - Track 9_**. This comforting song is what I listened to at the plane to Toronto. I embedded the youtube video playing with a river view of Seoul I can't wait to see it.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5LzfjF1ESIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![img](https://postfiles.pstatic.net/MjAxODExMTdfMjQ4/MDAxNTQyNDExOTkwOTA1.bgoWeWm4dyW5ElJ1EqEMWZaC7M4Z62QYvCVhSAMOkukg.vT9hPsgEkPqc4LMg5KwV-CnBPh1GvL0yDsgqcQtGudQg.JPEG.heirre/IMG_6389.JPG?type=w773)
 
 
 
-
-
-
-
-The other one is **_Safeplanet - คำตอบ_**, the song I'm gonna listen to in the air heading to Seoul. I've known this band only for 3 weeks but I'm sure I'll stan it for a long time cuz this band let me know the coolness of Thai indie band. It's a shame I can't understand Thai tho.
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P2y-C4sQfCc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-
-Anyway, I hope you all have the greatest Summer and like my new Github page and this bops.
-
-See you in Korea!
+직원들이 각자의 시간을 가질 수 있는 공간들이 마련되어있었는데 방 이름이 하나같이 예뻤다. 벽은 보드마카들이 준비되어있어서 자유롭게 의논하며 시간을 보낼 수 있는 듯했음.

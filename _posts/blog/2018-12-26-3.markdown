@@ -30,7 +30,7 @@ description:
 
 ​
 
-<li>생각을 무기한으로 미뤄둔 이후 글을 쓰던 타자를 치던 툭툭 막히는 경험을 했다. 주술관계가 이상하게 느껴지고 마치 슬럼프에 빠진 작가마냥. 이 작은 절망은 어쩌면 아주 가소로울 수 있는 이유로 극복되었는데, 2018 내 올해의 책 '해가 지는 곳으로' 덕분이랬다. 노트에 적어놓은 건 많으면서 차마 정리된 글로 옮길 자신이 없던 찰나 독서회를 핑계삼아 그 책을 다시 읽게 되었고, 몇달 전과 똑같은 부분들에서 숨이 턱턱 막혔다. 그 여운, 감정들이 나를 벅차게 만들어 쿨타임을 가지다보니까 어느새 글을 써볼 용기가 났다. 우리 작가님 아무리 검색을 해봐도 생년월일의 년도만 뜨고 어떤 소셜 미디어도 하지 않으시는데ㅜ 그 분을 만날 수 있는 유일한 방법은 오프라인 행사에 참여하는 방법뿐인 것 같다. 2019 한국에서 할 일! 상단에 추가해두어야겠다.</li>
+<li>생각을 무기한으로 미뤄둔 이후 글을 쓰던 타자를 치던 툭툭 막히는 경험을 했다. 주술관계가 이상하게 느껴지고 마치 슬럼프에 빠진 작가마냥. 이 작은 절망은 어쩌면 아주 가소로울 수 있는 이유로 극복되었는데, 2018 내 올해의 책 '해가 지는 곳으로' 덕분이랬다. 노트에 적어놓은 건 많으면서 차마 정리된 글로 옮길 자신이 없던 찰나 독서회를 핑계삼아 그 책을 다시 읽게 되었고, 몇달 전과 똑같은 부분들에서 숨이 턱턱 막혔다. 그 여운, 감정들이 나를 벅차게 만들어 쿨타임을 가지다보니까 어느새 글을 써볼 용기가 났다. 우리 작가님 아무리 검색을 해봐도 생년월일의 년도만 뜨고 어떤 소셜 미디어도 하지 않으시는데ㅜ 그 분을 만날 수 있는 유일한 방법은 오프라인 행사에 참여하는 방법뿐인 것 같다. 2019 한국에서 할 일 상단에 추가해야겠다.</li>
 
 ​
 
@@ -46,13 +46,8 @@ description:
 ![](http://hailey99.github.io/assets/images/1226.png)
 
 
-<img src="http://hailey99.github.io/assets/images/1226.png"
-onclick="document.getElementById('modal01').style.display='block'" class="w3-hover-opacity">
+<img src="http://hailey99.github.io/assets/images/1226.png" onclick="document.getElementById('modal01').style.display='block'" class="w3-hover-opacity">
+
 <div id="modal01" class="w3-modal w3-animate-zoom" onclick="this.style.display='none'">
   <img class="w3-modal-content" src="http://hailey99.github.io/assets/images/1226.png">
 </div>
-
-
-<img class="w3-hover-opacity" src="http://hailey99.github.io/assets/images/1226.png" alt="Norway" onclick="document.getElementById('img01').style.display='block'" style="width:100%;cursor:pointer">
-
-<img class="w3-hover-opacity" img src="http://hailey99.github.io/assets/images/1226.png" onclick="document.getElementById('modal01').style.display='block'" class="w3-hover-opacity">

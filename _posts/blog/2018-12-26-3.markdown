@@ -43,15 +43,4 @@ description:
 </ol>
 
 
-<div class="w3-container">
-
-  <img src="http://hailey99.github.io/assets/images/1226.png" style="width:30%;cursor:zoom-in"
-  onclick="document.getElementById('modal01').style.display='block'">
-
-  <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
-    <span class="w3-button w3-hover-red w3-xlarge w3-display-topright">&times;</span>
-    <div class="w3-modal-content w3-animate-zoom">
-      <img src="http://hailey99.github.io/assets/images/1226.png" style="width:100%">
-    </div>
-  </div>
-</div>
+![](http://hailey99.github.io/assets/images/1226.png)

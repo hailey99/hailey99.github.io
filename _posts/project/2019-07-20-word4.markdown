@@ -16,16 +16,20 @@ author: Hailey Haeun Park
 description: Try! Flutter Banner Design
 ---
 
-Event information: https://festa.io/events/373
+**Event information: https://festa.io/events/373**
+<br>
 
 ![](http://hailey99.github.io/assets/images/tf0.jpg)
-Festa Banner / designed using Photoshop and Illustrator
+**Festa Banner / 1600x900 pixel, RGB**
+designed using Photoshop and Illustrator
 <br>
 
 ![Main Banner](http://hailey99.github.io/assets/images/tf1.jpg)
-Main Banner / designed using Photoshop and Illustrator
+**Main Banner / 600x1800 millimeters, CMYK**
+designed using Photoshop and Illustrator
 <br>
 
 ![](http://hailey99.github.io/assets/images/tf2.jpg)
-Direction Banner / designed using Photoshop and Illustrator
+**Direction Banner / 600x1800 millimeters, CMYK**
+ designed using Photoshop and Illustrator
 <br>

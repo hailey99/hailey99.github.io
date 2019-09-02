@@ -16,11 +16,12 @@ author: Hailey Haeun Park
 description: Try! Flutter Banner Design
 ---
 
-<h2>These are size-adjusted versions for effective upload. <h2>
+These are size-adjusted versions for effective upload.
 <br>
 
-**Event information: https://festa.io/events/373**
+**Event information: <a href="https://festa.io/events/373">여기로</a>**
 <br>
+
 
 ![](http://hailey99.github.io/assets/images/tf0.jpg)
 **Festa Banner / 1600x900 px, RGB/ Photoshop and Illustrator**

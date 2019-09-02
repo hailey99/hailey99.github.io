@@ -19,7 +19,7 @@ description: Try! Flutter Banner Design
 These are size-adjusted versions for effective upload.
 <br>
 
-**Event information: <a href="https://festa.io/events/373">여기로</a>**
+**Event information: <a href="https://festa.io/events/373">Click!</a>**
 <br>
 
 

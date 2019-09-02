@@ -16,6 +16,8 @@ author: Hailey Haeun Park
 description: Try! Flutter Banner Design
 ---
 
+*These are size-adjusted versions for effective upload.*
+
 **Event information: https://festa.io/events/373**
 <br>
 

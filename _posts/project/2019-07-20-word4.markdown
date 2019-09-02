@@ -1,0 +1,31 @@
+---
+title: "Try! Flutter Banner Design"
+layout: post
+date: 2019-07-20 01:20
+image: /assets/images/markdown.jpg
+headerImage: false
+projects : true
+tag:
+- project
+- Flutter
+- Google
+- Design
+- Festa
+category: project
+author: Hailey Haeun Park
+description: Try! Flutter Banner Design
+---
+
+Event information: https://festa.io/events/373
+
+![](http://hailey99.github.io/assets/images/tf0.jpg)
+Festa Banner / designed using Photoshop and Illustrator
+<br>
+
+![Main Banner](http://hailey99.github.io/assets/images/tf1.jpg)
+Main Banner / designed using Photoshop and Illustrator
+<br>
+
+![](http://hailey99.github.io/assets/images/tf2.jpg)
+Direction Banner / designed using Photoshop and Illustrator
+<br>

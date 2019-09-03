@@ -1,5 +1,5 @@
 # main text of home
-name: Hailey Haeun Park
+name: Hailey Park
 bio: Every chipmunk needs a bit of sunlight and of course a load of adventures!
 
 # twitter summary info
@@ -34,14 +34,13 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
 linkedin: Hailey
 github: hailey99
-instagram: haileyhaeun
+instagram: hailey
 
 authors:
-    Hailey Haeun Park:
-        name: Hailey Haeun Park
+    Hailey Park:
+        name: Hailey Park
         bio: A digital marketer, data analyst, and dreamchaser.
         external-image: false
         picture: assets/images/hailey.jpg
@@ -49,7 +48,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: large
+width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
@@ -69,7 +68,7 @@ read-time: true
 show-tags: true
 
 # related posts inside a post?
-related: false
+related: true
 
 # Display links for next and previous posts for the specified categories
 post-advance-links: [blog]

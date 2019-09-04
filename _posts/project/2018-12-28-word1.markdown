@@ -9,7 +9,7 @@ tag:
 - project
 - wordproject
 category: project
-author: Hailey Haeun Park
+author: Hailey Park
 description: Word Project #1
 ---
 

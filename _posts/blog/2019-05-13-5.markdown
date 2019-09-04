@@ -13,7 +13,7 @@ tag:
 - IT
 
 category: blog
-author: Hailey Haeun Park
+author: Hailey Park
 description:
 ---
 

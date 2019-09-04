@@ -11,7 +11,7 @@ tag:
 - Google
 
 category: blog
-author: Hailey Haeun Park
+author: Hailey Park
 description: Joined a terrific event about Data Journalism.
 ---
 

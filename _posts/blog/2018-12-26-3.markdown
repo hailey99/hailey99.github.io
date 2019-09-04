@@ -13,7 +13,7 @@ tag:
 - 정세랑
 
 category: blog
-author: Hailey Haeun Park
+author: Hailey Park
 description:
 ---
 

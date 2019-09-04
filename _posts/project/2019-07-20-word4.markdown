@@ -12,7 +12,7 @@ tag:
 - Design
 - Festa
 category: project
-author: Hailey Haeun Park
+author: Hailey Park
 description: Try! Flutter Banner Design
 ---
 

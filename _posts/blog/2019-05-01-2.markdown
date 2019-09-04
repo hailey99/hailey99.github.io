@@ -10,7 +10,7 @@ tag:
 - Safeplanet
 
 category: blog
-author: Hailey Haeun Park
+author: Hailey Park
 description: I've FINALLY got my own Github page!
 ---
 

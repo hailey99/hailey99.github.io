@@ -9,7 +9,7 @@ tag:
 - project
 - 낱말프로젝트
 category: project
-author: Hailey Haeun Park
+author: Hailey Park
 description: Word Project #3
 ---
 **내가 가장 선호하는 책 출판사는 어디일까?**

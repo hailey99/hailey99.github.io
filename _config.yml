@@ -34,14 +34,14 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-linkedin: Hailey
+linkedin: hailey-park
 github: hailey99
-instagram: hailey
+instagram: haileypark
 
 authors:
     Hailey Park:
         name: Hailey Park
-        bio: A digital marketer, data analyst, and dreamchaser.
+        bio: A coding and data analytics enthusiast who waits for my preparation and effort meet opportunity
         external-image: false
         picture: assets/images/hailey.jpg
 

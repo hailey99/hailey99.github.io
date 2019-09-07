@@ -4,10 +4,12 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-**Hailey Park is a multifaceted individual who’s passionate about ideas, technology, innovation, arts, experiences, and diversity. She is a coding and data analytics enthusiast who's waiting for her preparation meets opportunity.
+**Hailey Park is a multifaceted individual who’s passionate about ideas, technology, innovation, arts, experiences, and diversity. She is a coding and data analytics enthusiast who's waiting for her preparation meets opportunity.**
 
 <br>
-"A spider reaches the liberty of space by means of its own thread." /Jhumpa Lahiri, The Lowland**
+<h3>
+*"A spider reaches the liberty of space by means of its own thread." /Jhumpa Lahiri, The Lowland*
+</h3>
 <br>
 
 
@@ -30,5 +32,5 @@ layout: page
 
 
 <ul>
-	<li><a href="https://hailey99.github.io/word0/">낱말 프로젝트</a></li> Analysis of book wishlist using R. 
+	<li><a href="https://hailey99.github.io/word0/">낱말 프로젝트</a></li> Analysis of book wishlist using R.
 </ul>

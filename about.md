@@ -27,12 +27,12 @@ layout: page
 	<li>Git</li>
 </ul>
 
-
+<br>
 
 
 <h2>Projects</h2>
 
 
 <ul>
-	<li><a href="https://hailey99.github.io/word0/">낱말 프로젝트</a></li> Analysis of book wishlist using R.
+	<li><a href="https://hailey99.github.io/word0/">낱말 프로젝트</a></li> Analysis of her book wishlist using R.
 </ul>

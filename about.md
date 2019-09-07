@@ -4,13 +4,15 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
+<h4><I>
+     "A spider reaches the liberty of space by means of its own thread." /Jhumpa Lahiri, The Lowland
+</I></h4>
+<br>
+
 **Hailey Park is a multifaceted individual who’s passionate about ideas, technology, innovation, arts, experiences, and diversity. She is a coding and data analytics enthusiast who's waiting for her preparation meets opportunity.**
 
 <br>
-<h3>
-*"A spider reaches the liberty of space by means of its own thread." /Jhumpa Lahiri, The Lowland*
-</h3>
-<br>
+
 
 
 <br>

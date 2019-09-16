@@ -13,7 +13,7 @@ layout: page
 
 <br>
 
-
+I'm always open to challenge new things and dive into inspiring datas. Feel free to contact me via email or LinkedIn! 
 
 <br>
 <h2>Skills</h2>

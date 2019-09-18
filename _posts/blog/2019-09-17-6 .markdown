@@ -1,5 +1,5 @@
 ---
-title: "After working as a volunteer for JunctionX Seoul"
+title: "One day One Commit"
 layout: post
 date: 2019-09-17 11:00
 image: /assets/images/markdown.jpg

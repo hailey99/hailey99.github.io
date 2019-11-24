@@ -17,17 +17,6 @@ author: Hailey Park
 description:
 ---
 
-remove odd values in any properties
-```javascript
-function removeOddValues(obj) {
-  for (let prop in obj) {
-    if (obj[prop] % 2 !== 0) {
-      delete obj[prop];
-    }
-  }
-  return obj;
-}
-```
 
 convert to number
 ```javascript
@@ -36,17 +25,17 @@ function convertToNumber(anything) {
 }
 ```
 
-return string
-```javascript
-function repeatString(string,num) {
-  return string.repeat(num);
-}
-```
-
 pi 이용해 원의 둘레의 길이 구하기
 ```javascript
 function computePerimeterOfACircle(radius) {
   return 2 * Math.PI * radius;
+}
+```
+
+return string
+```javascript
+function repeatString(string,num) {
+  return string.repeat(num);
 }
 ```
 
@@ -63,11 +52,44 @@ function computeAverageOfNumbers(nums) {
 }
 ```
 
+returns the length of the shortest word
+```javascript
+function findMinLengthOfThreeWords(word1, word2, word3) {
+  let shortestLen = word1.length;
+
+if(word1.length > word2.length) {
+  shortestLen = word2.length
+  if (word2.length > word3.length) {
+    shortestLen = word3.length
+  }
+} else {
+  if (word1.length > word3.length) {
+    shortestLen = word3.length
+  }
+}
+  return shortestLen;
+}
+
+```
+
 num과 obj가 있을 때 num보다 큰 object property 다 제거
 ```javascript
 function removeNumbersLargerThan(num,obj) {
 for (let prop in obj) {
     if(obj[prop] > num) {
+      delete obj[prop];
+    }
+  }
+  return obj;
+}
+```
+
+
+remove odd values in any properties
+```javascript
+function removeOddValues(obj) {
+  for (let prop in obj) {
+    if (obj[prop] % 2 !== 0) {
       delete obj[prop];
     }
   }

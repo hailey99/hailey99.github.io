@@ -84,6 +84,23 @@ for (let prop in obj) {
 }
 ```
 
+단어가 주어졌을 때 주어진 단어에 포함된 모든 문자를 담은 배열을 반환
+```javascript
+function getAllLetters(str) {
+  let arr = [];
+  for (let i=0; i<str.length;i++) {
+    arr.push(str[i]);
+  }
+return arr;
+}
+```
+
+returns the last element of the given array
+```javascript
+function getLastElement(array) {
+  return array[array.length-1];
+}
+```
 
 remove odd values in any properties
 ```javascript
@@ -103,5 +120,3 @@ function(countNumberOfKeys) {
 return Object.keys(obj).length;
 }
 ```
-
-ob

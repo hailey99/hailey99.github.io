@@ -73,3 +73,19 @@ function HowLong(‘hello’) {}
 let timeToGoHome = function(speed, distance) 		
 					{let time=distance/speed;		이 안에 든거 expression
 					console.log(time);}			출력 되는데 다음 판에 연결 안될땐 return time;해서 함수 밖으로 결과 나옴.
+
+**str.substring(start, end)**
+start, end사이의 문자열을 보여준다.
+```javascript
+var str = 'abcdefghij';
+console.log(str.substring(0,3)); //'abc'
+console.log(str.substring(3,1)); //'abc'
+console.log(str.substring(1,4)); //'bcd', 음수는 0으로 취급한다.
+console.log(str.substring(-1,4)); //'abcd'
+```
+
+**str.toLowerCase() / str.toUpperCase()**
+```javascript
+console.log('ALPHABET'.toLowerCase()); //'alphabet'
+console.log('alphabet'.toLowerCase()); //'ALPHABET'
+```

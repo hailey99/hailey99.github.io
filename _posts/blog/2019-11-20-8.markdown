@@ -1,5 +1,5 @@
 ---
-title: "자바스크립트 코드 정리"
+title: "자바스크립트 코드 Level 1 정리"
 layout: post
 date: 2019-11-20 10:00
 image: /assets/images/markdown.jpg

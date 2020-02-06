@@ -77,3 +77,19 @@ function getAllElementsButNth(array, n) {
 }
 
 ```
+
+getSquaredElementsAtProperty
+```javascript
+function square(number) {
+  return number * number;
+}
+
+function getSquaredElementsAtProperty(obj, key) {
+  let arrayProperty = obj[key];
+  if(Array.isArray(arrayProperty) === false) {
+    return [];
+  }
+  return arrayProperty.map(square);
+}
+
+```

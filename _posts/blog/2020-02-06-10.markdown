@@ -1,0 +1,29 @@
+---
+title: "Feb 6 TIL"
+layout: post
+date: 2020-02-06 09:00
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- blog
+- github
+- Programming
+- 프로그래밍
+- IT
+- Javascript
+
+category: blog
+author: Hailey Park
+description:
+---
+
+Questions
+ 1. HTML에서 <div class="mwah"></div> 할 때 class는 OOP와 관련있는 것인가?
+ 2. DOM <Template>태그에서 HTML조각이란? 그것이 하는 일은?
+
+
+ TIL
+1. $0.innerHTML에서 innerHTML은 merge가 아니라 아예 replace임. 아예 바꿔버림.
+
+
+

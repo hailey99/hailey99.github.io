@@ -1,5 +1,5 @@
 ---
-title: "낱말 프로젝트 02: Fields"
+title: "[R] 낱말 프로젝트 02: Fields"
 layout: post
 date: 2018-12-30 11:32
 image: /assets/images/markdown.jpg

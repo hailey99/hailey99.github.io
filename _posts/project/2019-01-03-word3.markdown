@@ -1,5 +1,5 @@
 ---
-title: "낱말 프로젝트 03: Publishers"
+title: "[R] 낱말 프로젝트 03: Publishers"
 layout: post
 date: 2019-01-03 17:06
 image: /assets/images/markdown.jpg

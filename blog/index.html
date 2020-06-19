@@ -7,6 +7,7 @@ title: Blog
 <section class="list">
 	{% if site.posts.size == 0 %}
 		<p class="text-center">Welcome to Hailey's page. Nothing published yet!</p>
+		<p class="text-center">박하은의 깃헙 페이지에 오신걸 환영합니다.</p>
 	{% elsif site.paginate %}
 		{% for post in paginator.posts %}
 			{% if post.category == 'blog' %}

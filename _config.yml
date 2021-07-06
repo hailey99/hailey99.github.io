@@ -1,5 +1,5 @@
 # main text of home
-name: Hailey Park
+name: 박하은 (Hailey)
 bio: Every chipmunk needs a bit of sunlight and of course a load of adventures!
 
 # twitter summary info
@@ -36,7 +36,6 @@ disqus:
 # if you don't have any of social below, comment the line
 linkedin: hailey-park
 github: hailey99
-instagram: haileypark
 
 authors:
     Hailey Park:
@@ -51,8 +50,8 @@ authors:
 width: large
 
 # if you don't need pagination, comment the *paginate* configs below
-#paginate: 10
-#paginate_path: "blog/:num/"
+paginate: 5
+paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
@@ -62,7 +61,7 @@ about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: false
+read-time: true
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
